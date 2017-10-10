@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\jtlavoie.ADMINISTRATION\\AndroidStudioProjects\\HorizontalPaging\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\Users\\jtlavoie.ADMINISTRATION\\.android\\build-cache\\084be85f692c7606c69f2214e50cda2f962c48d4\\output\\res\\values-v13\\values-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    }
+]

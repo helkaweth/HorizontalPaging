@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\jtlavoie.ADMINISTRATION\.android\build-cache\076d61492692cae40d53078067cf8bb0ab294077\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\jtlavoie.ADMINISTRATION\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c1ec87b343709b296d782e732dd30e1cf30fab9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jtlavoie.ADMINISTRATION\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e34d8af197d76e82f8506e5fbfdc37edea4a5450">
+        <dex dex="C:\Users\jtlavoie.ADMINISTRATION\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b5db35d3480929f981d1ea7064f1b64dc7f0a149\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jtlavoie.ADMINISTRATION\.android\build-cache\28ed61e60d4102521bc503e5a9e862536087ece0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\jtlavoie.ADMINISTRATION\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11f6b32d15dc7e76eb147ccd5d80e54da012d32d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jtlavoie.ADMINISTRATION\.android\build-cache\69d426cca3f31bf62f73e97439a66637b1f0395c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3a1bac2cc31df44dbf1f9bbf2c675319503c9271">
+        <dex dex="C:\Users\jtlavoie.ADMINISTRATION\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5d1c6c7f442f872aa7d265500b824417b1471330\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jtlavoie.ADMINISTRATION\.android\build-cache\79b2fca7c3e59584e57ea3666f7b6d1fcf42b06e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\jtlavoie.ADMINISTRATION\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f13791f5dada5ab7ef511ec165b3dcd27188b3a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jtlavoie.ADMINISTRATION\.android\build-cache\9dbc6e18e64ee5212e8a059740a3647cb420666c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\jtlavoie.ADMINISTRATION\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_768b9b3f2ba90284fa93a227fa227d2994dbcd7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jtlavoie.ADMINISTRATION\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\jtlavoie.ADMINISTRATION\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_91a98bedef3bcf62149a1a24aee4c7391fcabf61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jtlavoie.ADMINISTRATION\.android\build-cache\fa6c40dd20ee00c15d615fcdc78757cbd8ccc249\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\jtlavoie.ADMINISTRATION\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e9e9074c8c667248bbfb1803df51eedea09e1dd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jtlavoie.ADMINISTRATION\.android\build-cache\f0d2870c50586fd79dd6777db2d5b3c89dd33481\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\jtlavoie.ADMINISTRATION\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a6fa5cd6a49282f76089bbb09763e8f267f054e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jtlavoie.ADMINISTRATION\.android\build-cache\406b31e062dfa852c4a3cc6fbed84195d3e2dd4a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\jtlavoie.ADMINISTRATION\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dcc151ca3c40c52428589bcae8e4fbc91985bed0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jtlavoie.ADMINISTRATION\.android\build-cache\49659be6d0ab7d51f7c67fe6578e45252c2eb955\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\jtlavoie.ADMINISTRATION\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f6b0a6cc867ff4321d328f99a049cf033400a63d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jtlavoie.ADMINISTRATION\.android\build-cache\302629d579275671cf146a51317b89a9131ecd77\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\jtlavoie.ADMINISTRATION\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0f6c5e4d0955e51122c7c75000c914674d027182\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jtlavoie.ADMINISTRATION\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\jtlavoie.ADMINISTRATION\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_851f47a3cb4025f20668edc62e8059afeaf0a36c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jtlavoie.ADMINISTRATION\.android\build-cache\084be85f692c7606c69f2214e50cda2f962c48d4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\jtlavoie.ADMINISTRATION\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_947d47180698c9e95a0405173992100fc3ff8ff6\classes.dex" />
+    </item>
+
+</items>
